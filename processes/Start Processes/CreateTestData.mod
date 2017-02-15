@@ -1,5 +1,5 @@
 [Ivy]
-[>Created: Wed Feb 15 09:30:04 CET 2017]
+[>Created: Wed Feb 15 09:50:44 CET 2017]
 15A3C61329EEE807 3.20 #module
 >Proto >Proto Collection #zClass
 Ca0 CreateTestData Big #zClass
@@ -223,7 +223,7 @@ Ca0 f13 @|IBIcon #fIcon
 Ca0 f14 @C|.xml '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <elementInfo>
     <language>
-        <name>This is an ivy Project sample that shows how Hibernate Evners can be used with ivy.
+        <name>This is an ivy Project sample that shows how Hibernate Envers can be used with ivy.
 It should not be used as Hibernate sample.</name>
         <nameStyle>126
 </nameStyle>
