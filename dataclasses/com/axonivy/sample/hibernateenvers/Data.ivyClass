@@ -1,0 +1,4 @@
+Data #class
+com.axonivy.sample.hibernateenvers #namespace
+creditcardIdInDb Integer #field
+creditcardIdInDb PERSISTENT #fieldModifier
