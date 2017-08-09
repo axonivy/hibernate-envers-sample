@@ -11,6 +11,6 @@
 	<classpathentry kind="con" path="WEBAPP_CONTAINER"/>
 	<classpathentry kind="con" path="ULC_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="lib" path="libs/hibernate-envers-4.2.21.Final-redhat-1.jar"/>
+	<classpathentry kind="lib" path="libs/hibernate-envers-4.3.3.Final.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
